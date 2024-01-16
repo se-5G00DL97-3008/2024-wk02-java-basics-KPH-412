@@ -10,7 +10,7 @@ public class E07 {
 
         for (int i = 0; i <= multiplier; i++ ) {
              int result = i*multiplicand;
-             System.out.println(i + "*" + multiplicand + "=" + result); 
+             System.out.println(i + " * " + multiplicand + " = " + result); 
         }
 scanner.close();
     }
