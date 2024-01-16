@@ -9,8 +9,7 @@ public class E02 {
         int x = scanner.nextInt();
         //Prompt the 2nd time
         System.out.println("Give another number:");
-        int y = scanner.nextInt();
-        scanner.close();
+        int y = scanner.nextInt();        
 
         System.out.println(x + " + " + y + " = " + (x+y));
         System.out.println(x + " * " + y + " = " + (x*y));
