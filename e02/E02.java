@@ -8,7 +8,7 @@ public class E02 {
         System.out.println("Give a number:");
         int x = scanner.nextInt();
         //Prompt the 2nd time
-        System.out.println("Give another number:");
+        System.out.println("Give a number:");
         int y = scanner.nextInt();        
 
         System.out.println(x + " + " + y + " = " + (x+y));
