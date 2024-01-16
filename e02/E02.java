@@ -12,11 +12,11 @@ public class e02 {
         double y = scanner.nextDouble();
         scanner.close();
 
-        System.out.println(x + "+" + y + "=" + (x+y));
-        System.out.println(x + "*" + y + "=" + (x*y));
-        System.out.println(x + "-" + y + "=" + (x-y));
+        System.out.println(x + " + " + y + " = " + (x+y));
+        System.out.println(x + " * " + y + " = " + (x*y));
+        System.out.println(x + " - " + y + " = " + (x-y));
         if  (y != 0) {
-            System.out.println(x + "/" + y + "=" + (x/y));
+            System.out.println(x + " / " + y + " = " + (x/y));
         } else {
             System.out.println("Cannot divided to zero");
         }
