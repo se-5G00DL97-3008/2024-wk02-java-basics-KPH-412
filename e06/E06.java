@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class e06 {
+public class E06 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Which multiplication table to show ?");
