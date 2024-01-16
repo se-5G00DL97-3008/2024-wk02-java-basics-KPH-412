@@ -5,7 +5,7 @@ public class E07 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Which multiplicand multiplication table to show?");
         int multiplicand = scanner.nextInt();
-        System.out.println("Until which multiplier?");
+        System.out.println("Until which multiplier should the table show?");
         int multiplier = scanner.nextInt();
 
         for (int i = 0; i <= multiplier; i++ ) {
