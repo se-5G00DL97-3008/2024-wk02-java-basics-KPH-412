@@ -6,10 +6,10 @@ public class E02 {
 
         //Prompt the user for the first time
         System.out.println("Give a number :");
-        double x = scanner.nextDouble();
+        int x = scanner.nextInt();
         //Prompt the 2nd time
         System.out.println("Give another number :");
-        double y = scanner.nextDouble();
+        int y = scanner.nextInt();
         scanner.close();
 
         System.out.println(x + " + " + y + " = " + (x+y));
