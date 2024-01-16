@@ -8,7 +8,7 @@ public class E06 {
 
         //Choose multiplication to show
         for ( int i = 0 ; i <=10; i++ ) {
-            System.out.println(i + " * " + num + " = " + (num*i));
+            System.out.println(i + " x " + num + " = " + (num*i));
         }
         scanner.close();
     }
