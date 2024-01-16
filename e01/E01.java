@@ -13,7 +13,7 @@ class E01 {
         //Print out the variables
         System.out.println( x);
         System.out.println( y);
-        System.out.println(true);
+        System.out.println(flag);
         System.out.println(letter);
         System.out.println(year);
         System.out.println(population);
